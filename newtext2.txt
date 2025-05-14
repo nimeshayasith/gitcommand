@@ -1,1 +1,2 @@
 git command practise
+git newtext2 adding
