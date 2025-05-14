@@ -1,1 +1,2 @@
 I will add some text into the text file.
+Modify the newtext file
